@@ -1,4 +1,4 @@
-# Heart Failure Prediction with Logistic Regression
+# Heart Failure Prediction - Machine Learning
 
 This is a project for the Course of Machine Learning Algorithms, year 2022.
 
