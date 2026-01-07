@@ -1,6 +1,6 @@
 # Heart Failure Prediction with Logistic Regression
 
-This is a class project for Course: OPER/STAT 636 - Machine Learning Algorithms, Virginia Commonwealth University, year 2022.
+This is a project for the Course of Machine Learning Algorithms, year 2022.
 
 ## Overview
 
